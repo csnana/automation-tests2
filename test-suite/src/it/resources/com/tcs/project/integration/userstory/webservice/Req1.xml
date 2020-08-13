@@ -1,0 +1,12 @@
+<ns2:LegDetails xmlns:ns2="urn:www.qantas.com:schema:cdm:operations:FlightOperations:RetrieveFlightLeg:v1">
+    <ns1:LegIdentifier xmlns:ns1="http://www.iata.org/IATA/2007/00">
+        <ns1:Airline>QFA</ns1:Airline>
+        <ns1:FlightNumber>507</ns1:FlightNumber>
+        <ns1:OperationalSuffix/>
+        <ns1:DepartureAirport>BNE</ns1:DepartureAirport>
+        <ns1:ArrivalAirport>SYD</ns1:ArrivalAirport>
+        <ns1:OriginDate>2016-05-20</ns1:OriginDate>
+        <ns1:RepeatNumber>0</ns1:RepeatNumber>
+    </ns1:LegIdentifier>
+    <ns1:LegData xmlns:ns1="http://www.iata.org/IATA/2007/00"/>
+</ns2:LegDetails>

@@ -1,0 +1,119 @@
+[
+  {
+    "searchBy": [
+      {
+        "site": "Demo",
+        "device": "web",
+        "identifierType": "id",
+        "identifierValue": "lst-ib"
+      },
+      {
+        "site": "Prod",
+        "device": "droid",
+        "identifierType": "id",
+        "identifierValue": "lst-ib"
+      },
+      {
+        "site": "Int",
+        "device": "ios",
+        "identifierType": "id",
+        "identifierValue": "lst-ib"
+      },
+      {
+        "site": "stage",
+        "device": "web",
+        "identifierType": "id",
+        "identifierValue": "lst-ib"
+      }
+    ]
+  },
+  {
+    "searchButton": [
+      {
+        "site": "Demo",
+        "device": "web",
+        "identifierType": "id",
+        "identifierValue": "tsbb"
+      },
+      {
+        "site": "Prod",
+        "device": "droid",
+        "identifierType": "id",
+        "identifierValue": "_fZl"
+      },
+      {
+        "site": "Int",
+        "device": "ios",
+        "identifierType": "id",
+        "identifierValue": "_fZl"
+      }
+    ]
+  },
+  {
+    "ResultLink": [
+      {
+        "site": "Demo",
+        "device": "web",
+        "identifierType": "link",
+        "identifierValue": "Automation - Wikipedia"
+      },
+      {
+        "site": "Prod",
+        "device": "droid",
+        "identifierType": "link",
+        "identifierValue": "Automation - Wikipedia"
+      },
+      {
+        "site": "Int",
+        "device": "ios",
+        "identifierType": "link",
+        "identifierValue": "Automation - Wikipedia"
+      }
+    ]
+  },
+  {
+    "ResultImage": [
+      {
+        "site": "Demo",
+        "device": "web",
+        "identifierType": "css",
+        "identifierValue": "img.thumbimage"
+      },
+      {
+        "site": "Prod",
+        "device": "droid",
+        "identifierType": "css",
+        "identifierValue": "img.thumbimage"
+      },
+      {
+        "site": "Int",
+        "device": "ios",
+        "identifierType": "css",
+        "identifierValue": "img.thumbimage"
+      }
+    ]
+  },
+  {
+    "ImageClose": [
+      {
+        "site": "Demo",
+        "device": "web",
+        "identifierType": "css",
+        "identifierValue": "button.mw-mmv-close"
+      },
+      {
+        "site": "Prod",
+        "device": "droid",
+        "identifierType": "css",
+        "identifierValue": "button.mw-mmv-close"
+      },
+      {
+        "site": "Int",
+        "device": "ios",
+        "identifierType": "css",
+        "identifierValue": "button.mw-mmv-close"
+      }
+    ]
+  }
+]
+

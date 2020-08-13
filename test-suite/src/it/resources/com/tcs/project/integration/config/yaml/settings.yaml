@@ -1,0 +1,45 @@
+Basic:
+  projectName: Automation
+  envUrl: https://www.google.com.au
+  highlight: true
+  envIssueRetryflag: true
+
+Interpolation:
+  csvPath: /Volumes/common/TestAutomation/MOBILE_DATA_DROPBOX/
+
+WebDriver:
+  browser: ios
+
+Appium:
+  nodepath: /usr/local/bin/node
+  appiumserverpath: /usr/local/bin/appium
+
+IOS:
+  deviceName: iPhone 8 Plus
+  platformName: iOS
+  platformVersion: 11.0
+  browser: Safari
+  appPath: /Users/sajeevr/Documents/iosapp/appversion45/
+  appName:
+    st: FlyT.app
+    si: FlyI.app
+    prod: FlyP.app
+  BundleId: com.google.mobile.iphone.dev
+
+Droid:
+  deviceName: emulator-5554
+  platformVersion: 5.1
+  browser: chrome
+  appPath: /Users/sajeevr/Documents/droidapp/appversion45/
+  appName:
+    st: Fly-dev.apk
+    si: Fly-beta.apk
+    prod: Fly-release.apk
+  BundleId: com.google.mobile.android.beta
+  appActivity: com.googlr.mobile.android.SplashScreen
+
+ExtentReport:
+  appendReport: false
+  testPassScreenshot: false
+  organisation: TATA
+  reportName: Google Demo
