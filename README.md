@@ -1,9 +1,10 @@
 # Instruction steps detailing the various activities and action required for framework installation and test scripting are as below
+1) Check whether brew is installed or not
+2) Open terminal and type "which brew"
+3) If no response, install brew by issuing the below command in terminal
+4) /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 Note: Please use homebrew & npm to install all required software’s
-a) Check whether brew is installed or not
-b) Open terminal and type "which brew"
-c) If no response, install brew by issuing the below command in terminal
-d) /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Install the Maven & Node using brew
 1) brew install Maven
